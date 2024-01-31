@@ -1,5 +1,5 @@
 - Second Attempt, January 2024.\
-Project was rebuilt, using the same algorithm chosen, and implementing changes to the program as advised by the Course Instructor.
+Project was rebuilt, using the same algorithm chosen, and implementing changes to the program as advised by the Course Instructor. Simple menus of input choice have been created, no need to write any words for selection or report generation, the estimated delivery time was removed as requested, and the user interface was also changed in request.
 
 Project for Western Governors University C950 - Data Structures and Algorithms II
 
